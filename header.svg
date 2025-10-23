@@ -28,11 +28,7 @@
 
   <!-- карточка -->
   <rect x="70" y="45" width="1060" height="170" rx="18" ry="18" fill="#fff" filter="url(#shadow)" />
-
-  <!-- иконка Android -->
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-         x="120" y="90" width="60" height="60" />
-
+  
   <!-- текст -->
   <text x="210" y="125" class="title">Hi there, I'm Christina 👋</text>
   <text x="210" y="160" class="subtitle">Android Developer • Kotlin Enthusiast • UI &amp; UX Lover</text>
