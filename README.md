@@ -1,14 +1,11 @@
 <!-- === HEADER === -->
-<div align="center" style="background: linear-gradient(180deg, #E3F2FD 0%, #BBDEFB 50%, #E0F7FA 100%); padding: 40px 0; border-radius: 16px;">
-  <h1 style="font-weight:600; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="35" height="35" style="vertical-align: middle;"/>  
-    Hi there, I'm Christina 👋
-  </h1>
+<p align="center">
+  <img src="./header.svg" alt="Christina header" width="100%"/>
+</p>
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=450&color=42A5F5&lines=Android+Developer;Kotlin+Enthusiast;UI+%26+UX+Lover;Always+learning+new+things" alt="Typing SVG" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=450&color=42A5F5&lines=Android+Developer;Kotlin+Enthusiast;UI+%26+UX+Lover;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
 ---
 
