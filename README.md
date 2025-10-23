@@ -4,13 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=450&color=42A5F5&lines=Android+Developer;Kotlin+Enthusiast;UI+%26+UX+Lover;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=450&color=42A5F5&lines=Android+Developer;Kotlin+Enthusiast;UI+%26+UX+Lover;Always+learning+new+things;Coffee+lover" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=450&color=42A5F5&lines=Always+learning;Coffee+lover" alt="Fun Facts Typing SVG" />
-</p>
-
 
 ---
 
