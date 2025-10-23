@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <!-- Голубой градиент -->
+    <linearGradient id="grad" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#E3F2FD"/>
+      <stop offset="50%" stop-color="#BBDEFB"/>
+      <stop offset="100%" stop-color="#E0F7FA"/>
+    </linearGradient>
+    <!-- Тень под карточкой -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#42A5F5" flood-opacity="0.25"/>
+    </filter>
+    <style>
+      .title { 
+        font: 700 40px 'Segoe UI', Roboto, sans-serif; 
+        fill: #0D47A1; 
+      }
+      .subtitle {
+        font: 400 18px 'JetBrains Mono', monospace;
+        fill: #1976D2;
+      }
+    </style>
+  </defs>
+
+  <!-- фон -->
+  <rect width="1200" height="260" fill="url(#grad)" />
+
+  <!-- карточка -->
+  <rect x="70" y="45" width="1060" height="170" rx="18" ry="18" fill="#fff" filter="url(#shadow)" />
+
+  <!-- иконка Android -->
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+         x="120" y="90" width="60" height="60" />
+
+  <!-- текст -->
+  <text x="210" y="125" class="title">Hi there, I'm Christina 👋</text>
+  <text x="210" y="160" class="subtitle">Android Developer • Kotlin Enthusiast • UI &amp; UX Lover</text>
+</svg>
