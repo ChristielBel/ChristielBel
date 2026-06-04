@@ -81,8 +81,8 @@
 <h3 align="center">📈 My GitHub Stats</h3>
 
 <div align="center" style="background: linear-gradient(180deg,#E3F2FD,#E0F7FA); padding: 20px; border-radius: 16px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristielBel&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristielBel&theme=holi" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristielBel&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChristielBel&theme=github_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChristielBel&theme=holi" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChristielBel&theme=holi"/>
 </div>
