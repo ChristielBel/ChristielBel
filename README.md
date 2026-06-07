@@ -29,37 +29,63 @@
       <b>Android & Kotlin</b><br/><br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android%20SDK-34A853?style=for-the-badge&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
       <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flow%20%2F%20StateFlow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XML%20Layouts-E34F26?style=for-the-badge&logo=xml&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=materialdesign&logoColor=white"/>
     </td>
     <td align="center" valign="top">
       <b>Libraries & DI</b><br/><br/>
       <img src="https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white"/>
       <img src="https://img.shields.io/badge/OkHttp-F44336?style=for-the-badge&logo=square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gson-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
       <img src="https://img.shields.io/badge/Dagger-FF6F00?style=for-the-badge&logo=android&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Clean%20Architecture-607D8B?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Manual%20DI-607D8B?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SharedPreferences-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DataStore-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
     <td align="center" valign="top">
+      <b>Architecture & Patterns</b><br/><br/>
+      <img src="https://img.shields.io/badge/MVVM-6A0DAD?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVI-5E35B1?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVP-7B1FA2?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVC-8E24AA?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Clean%20Architecture-607D8B?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SOLID-546E7A?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OOP-455A64?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-0D47A1?style=for-the-badge&logo=githubactions&logoColor=white"/>
+    </td>
+    <td align="center" valign="top">
       <b>Databases</b><br/><br/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
     </td>
-    <td align="center" valign="top">
-      <b>Frontend & Other</b><br/><br/>
+  </tr>
+
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <b>Other</b><br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     </td>
   </tr>
 
